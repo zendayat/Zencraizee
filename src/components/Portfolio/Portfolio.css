@@ -1,0 +1,5 @@
+div > a:hover{
+    color: black;
+    background-color: transparent;
+    border-color: purple;
+}

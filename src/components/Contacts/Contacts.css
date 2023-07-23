@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap');
+#input::placeholder{
+    color: rgb(143, 35, 35);
+}
+form{
+    background-image: url("../../assets/navbg.jpg");
+}
+.contact_image{
+    background-image: url("../../assets/pic3.jpg");
+}
+input {
+  caret-color: red;
+}
+.button{
+    box-shadow: 6px 6px 8px #680397d8;
+}
+

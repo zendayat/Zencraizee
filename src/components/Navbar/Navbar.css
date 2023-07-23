@@ -1,0 +1,36 @@
+.navbar{
+    background: var(--color-light);
+}
+.menu{
+    border-left: 2px solid var(--color-primary);
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    position: fixed;
+    right: 0.25rem;
+    top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    width: fit-content;
+    height: fit-content;
+    background-image: url(../../assets/navbg.jpg);
+}
+.menu.visible{
+    display: block;
+}
+.menu.hidden{
+    display: none;
+}
+.menu_icon:hover{
+    cursor: pointer;
+}
+@media screen and (max-width: 1024px){
+    
+}
+@media screen and (max-width: 600px){
+    .menu_icon{
+        left: 90vw;
+    }
+}

@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+.Advert{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    animation-name: Intro;
+    animation-duration: 3.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+.Advert h2{
+    font-size: 4rem;
+    font-family: 'Zen Antique', serif;
+    color: #222;
+}
+.Advert h2::before{
+    content: attr(data-text);
+    position: absolute;
+    color: white;
+    width: 440px;
+    overflow: hidden;
+    border-right: 4px solid white;
+    animation: introColor 3s linear;
+    filter: drop-shadow(0 0 20px white) drop-shadow(0 0 50px white);
+}
+@keyframes introColor{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 440px;
+    }
+}
+@keyframes Intro{
+    0%{
+        opacity: 1;
+        display: block;
+    }
+    95%{
+        opacity: 0.97;
+        display: block;
+    }
+    100%{
+        opacity: 0;
+        display: none;
+    }
+}
