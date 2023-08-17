@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zencraizee/static/css/main.d0ae984b.css",
-    "main.js": "/Zencraizee/static/js/main.cfef87ac.js",
+    "main.js": "/Zencraizee/static/js/main.0c09f82e.js",
     "static/js/787.1ed0c42c.chunk.js": "/Zencraizee/static/js/787.1ed0c42c.chunk.js",
     "static/media/pic1.png": "/Zencraizee/static/media/pic1.912bec15e1731ff846aa.png",
     "static/media/web development.png": "/Zencraizee/static/media/web development.5a16209999d270814f00.png",
@@ -13,14 +13,14 @@
     "static/media/Project5.png": "/Zencraizee/static/media/Project5.362069d5c7bcf5abe7e2.png",
     "static/media/Project3.png": "/Zencraizee/static/media/Project3.f1262756ab5bdd0e3afb.png",
     "static/media/pic3.jpg": "/Zencraizee/static/media/pic3.7b369762731751475398.jpg",
-    "static/media/RESUME.pdf": "/Zencraizee/static/media/RESUME.406d3bb17eb34cbf7115.pdf",
+    "static/media/RESUME.pdf": "/Zencraizee/static/media/RESUME.b111bc5598a448083f8e.pdf",
     "index.html": "/Zencraizee/index.html",
     "main.d0ae984b.css.map": "/Zencraizee/static/css/main.d0ae984b.css.map",
-    "main.cfef87ac.js.map": "/Zencraizee/static/js/main.cfef87ac.js.map",
+    "main.0c09f82e.js.map": "/Zencraizee/static/js/main.0c09f82e.js.map",
     "787.1ed0c42c.chunk.js.map": "/Zencraizee/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0ae984b.css",
-    "static/js/main.cfef87ac.js"
+    "static/js/main.0c09f82e.js"
   ]
 }
