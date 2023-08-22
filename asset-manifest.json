@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/Zencraizee/static/css/main.d0ae984b.css",
-    "main.js": "/Zencraizee/static/js/main.0c09f82e.js",
+    "main.js": "/Zencraizee/static/js/main.dbe47ba2.js",
     "static/js/787.1ed0c42c.chunk.js": "/Zencraizee/static/js/787.1ed0c42c.chunk.js",
-    "static/media/pic1.png": "/Zencraizee/static/media/pic1.912bec15e1731ff846aa.png",
     "static/media/web development.png": "/Zencraizee/static/media/web development.5a16209999d270814f00.png",
     "static/media/navbg.jpg": "/Zencraizee/static/media/navbg.0ebf1aeb98fa4260162a.jpg",
     "static/media/PHOTOGRAPHY.jpg": "/Zencraizee/static/media/PHOTOGRAPHY.ee65515518ad5f43f318.jpg",
@@ -12,15 +11,17 @@
     "static/media/Project1.png": "/Zencraizee/static/media/Project1.c3c6033e14faca50114c.png",
     "static/media/Project5.png": "/Zencraizee/static/media/Project5.362069d5c7bcf5abe7e2.png",
     "static/media/Project3.png": "/Zencraizee/static/media/Project3.f1262756ab5bdd0e3afb.png",
+    "static/media/Project6.png": "/Zencraizee/static/media/Project6.e9fd511140b59215fadf.png",
     "static/media/pic3.jpg": "/Zencraizee/static/media/pic3.7b369762731751475398.jpg",
-    "static/media/RESUME.pdf": "/Zencraizee/static/media/RESUME.b111bc5598a448083f8e.pdf",
+    "static/media/pic1.png": "/Zencraizee/static/media/pic1.aabfef819c4df9426c76.png",
+    "static/media/RESUME.pdf": "/Zencraizee/static/media/RESUME.cc65291750d3d62228cf.pdf",
     "index.html": "/Zencraizee/index.html",
     "main.d0ae984b.css.map": "/Zencraizee/static/css/main.d0ae984b.css.map",
-    "main.0c09f82e.js.map": "/Zencraizee/static/js/main.0c09f82e.js.map",
+    "main.dbe47ba2.js.map": "/Zencraizee/static/js/main.dbe47ba2.js.map",
     "787.1ed0c42c.chunk.js.map": "/Zencraizee/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0ae984b.css",
-    "static/js/main.0c09f82e.js"
+    "static/js/main.dbe47ba2.js"
   ]
 }
