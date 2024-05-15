@@ -33,7 +33,7 @@ const Data = [
     {
       avatar: AVTR4,
       id: 'Banking App',
-      languages: 'react js with Tailwind',
+      languages: 'React js with Tailwind',
       review: 'Frontend design for a banking app',
       site: 'https://zendayat.github.io/Bank-App-frontend/'
     }
