@@ -25,10 +25,10 @@ const Data = [
     },
     {
       avatar: AVTR3,
-      id: 'White Portfolio',
+      id: 'Grocery website',
       languages: 'HTML,CSS,JS',
-      review: 'A white background portfolio website',
-      site: 'https://zendayat.github.io/portfolio/index.html'
+      review: 'Frontend design for a simple groceries website',
+      site: 'https://zendayat.github.io/grocery'
     },
     {
       avatar: AVTR4,
