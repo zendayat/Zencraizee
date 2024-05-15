@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Zencraizee/static/css/main.d0ae984b.css",
+    "main.js": "/Zencraizee/static/js/main.5540072b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Zencraizee/static/js/787.1ed0c42c.chunk.js",
+    "static/media/web development.png": "/Zencraizee/static/media/web development.5a16209999d270814f00.png",
+    "static/media/navbg.jpg": "/Zencraizee/static/media/navbg.0ebf1aeb98fa4260162a.jpg",
+    "static/media/PHOTOGRAPHY.jpg": "/Zencraizee/static/media/PHOTOGRAPHY.ee65515518ad5f43f318.jpg",
+    "static/media/UI_UX.png": "/Zencraizee/static/media/UI_UX.dcf29c647f2bd68349b8.png",
+    "static/media/Project1.png": "/Zencraizee/static/media/Project1.c3c6033e14faca50114c.png",
+    "static/media/Project5.png": "/Zencraizee/static/media/Project5.362069d5c7bcf5abe7e2.png",
+    "static/media/Project4.png": "/Zencraizee/static/media/Project4.2811d64c96447e4a5585.png",
+    "static/media/Project3.png": "/Zencraizee/static/media/Project3.bd29770a6fb36a0d3aa4.png",
+    "static/media/pic3.jpg": "/Zencraizee/static/media/pic3.7b369762731751475398.jpg",
+    "static/media/pic3.png": "/Zencraizee/static/media/pic3.2ea3f529ddd0f1e09554.png",
+    "static/media/RESUME.pdf": "/Zencraizee/static/media/RESUME.406d3bb17eb34cbf7115.pdf",
+    "index.html": "/Zencraizee/index.html",
+    "main.d0ae984b.css.map": "/Zencraizee/static/css/main.d0ae984b.css.map",
+    "main.5540072b.js.map": "/Zencraizee/static/js/main.5540072b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Zencraizee/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ae984b.css",
+    "static/js/main.5540072b.js"
+  ]
+}
