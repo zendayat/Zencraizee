@@ -32,10 +32,10 @@ const Data = [
     },
     {
       avatar: AVTR4,
-      id: 'Happy Tooth Dental',
-      languages: 'HTML,CSS,JS',
-      review: 'A white background dental website',
-      site: 'https://zendayat.github.io/Dental-Website-Tailwind/index.html'
+      id: 'Banking App',
+      languages: 'react js with Tailwind',
+      review: 'Frontend design for a banking app',
+      site: 'https://zendayat.github.io/Bank-App-frontend/'
     }
   ]
 const Portfolio = () => {

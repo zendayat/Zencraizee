@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import Navbar from '../Navbar/Navbar'
-import Avt1 from '../../assets/pic1.png'
+import Avt1 from '../../assets/pic3.png'
 import CV from '../../assets/RESUME.pdf'
 import { motion } from "framer-motion"
 import {fadeIn} from '../../variants'
