@@ -11,9 +11,9 @@ import {fadeIn} from '../../variants'
 const Data = [
     {
       avatar: AVTR1,
-      id: 'Portfolio',
+      id: 'Gym Website',
       languages: 'React JS',
-      review: 'React Gym website.',
+      review: 'Frontend outlook for Gym website.',
       site: 'https://zendayat.github.io/Gym/'
     },
     {
